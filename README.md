@@ -1,6 +1,8 @@
 # ChartJSDataDemo
 Data visualization with Chart.js
 ***
+![image](https://user-images.githubusercontent.com/19554935/48810312-a2120500-ecf6-11e8-8ef0-e949596754f9.png)
+***
 ![Alt Text](https://github.com/ofuen/ChartJSDataDemo/blob/master/screenshot/2018-11-20_18-51-23.gif)
 ***
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
